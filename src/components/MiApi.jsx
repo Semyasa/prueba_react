@@ -14,7 +14,7 @@ useEffect(() => {
     
 }, [])
 
-//Función que lee API
+//Función para consumir  API
 const consultarApi = async () => {
 
     const url = 'https://rickandmortyapi.com/api/character'
