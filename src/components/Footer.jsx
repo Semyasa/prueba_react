@@ -5,7 +5,9 @@ const Piepagina = () => {
 
     return (
         <div className=''>
-            <h2>- Rick and Morty - Sitio diseñado por Uriel Neira</h2>
+            <p>- Rick and Morty -</p>
+            <p>Prueba Desafio Latam</p>
+            <a href="https://github.com/Semyasa/prueba_react">enlace a GitHub</a>
         </div>
     )
 }
